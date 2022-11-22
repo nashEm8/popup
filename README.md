@@ -1,6 +1,6 @@
 # Desenvolvendo um Popup 
 <p>Projeto do módulo 5, do curso de JS do Roger Melo <br/>
-<b>🔎 Link para visualização:</b> <em><a href="https://createpopupjs.netlify.app/" target="_blank">createpopupjs.netlify.app</a></em></p>
+<b>🔎 Link para visualização:</b> <em><a href="https://createpopupjs.netlify.app/">createpopupjs.netlify.app</a></em></p>
 <br/><br/>
 
 <h2>📌 Objetivo</h2>
